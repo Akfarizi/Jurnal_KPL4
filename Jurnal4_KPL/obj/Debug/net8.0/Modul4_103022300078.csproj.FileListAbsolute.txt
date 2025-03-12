@@ -1,0 +1,5 @@
+D:\Jurnal4_KPL\Jurnal4_KPL\obj\Debug\net8.0\Modul4_103022300078.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jurnal4_KPL\Jurnal4_KPL\obj\Debug\net8.0\Modul4_103022300078.AssemblyInfoInputs.cache
+D:\Jurnal4_KPL\Jurnal4_KPL\obj\Debug\net8.0\Modul4_103022300078.AssemblyInfo.cs
+D:\Jurnal4_KPL\Jurnal4_KPL\obj\Debug\net8.0\Modul4_103022300078.csproj.CoreCompileInputs.cache
+D:\Jurnal4_KPL\Jurnal4_KPL\obj\Debug\net8.0\Modul4_103022300078.sourcelink.json

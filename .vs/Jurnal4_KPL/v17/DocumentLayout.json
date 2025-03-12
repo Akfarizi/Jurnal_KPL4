@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jurnal4_KPL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA0A0D4-8F8A-4DCE-87B4-02E5E77F54E1}|Jurnal4_KPL\\Modul4_103022300078.csproj|d:\\jurnal4_kpl\\jurnal4_kpl\\fanlaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA0A0D4-8F8A-4DCE-87B4-02E5E77F54E1}|Jurnal4_KPL\\Modul4_103022300078.csproj|solutionrelative:jurnal4_kpl\\fanlaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA0A0D4-8F8A-4DCE-87B4-02E5E77F54E1}|Jurnal4_KPL\\Modul4_103022300078.csproj|d:\\jurnal4_kpl\\jurnal4_kpl\\kodeproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA0A0D4-8F8A-4DCE-87B4-02E5E77F54E1}|Jurnal4_KPL\\Modul4_103022300078.csproj|solutionrelative:jurnal4_kpl\\kodeproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA0A0D4-8F8A-4DCE-87B4-02E5E77F54E1}|Jurnal4_KPL\\Jurnal4_KPL.csproj|d:\\jurnal4_kpl\\jurnal4_kpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA0A0D4-8F8A-4DCE-87B4-02E5E77F54E1}|Jurnal4_KPL\\Jurnal4_KPL.csproj|solutionrelative:jurnal4_kpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FanLaptop.cs",
+              "DocumentMoniker": "D:\\Jurnal4_KPL\\Jurnal4_KPL\\FanLaptop.cs",
+              "RelativeDocumentMoniker": "Jurnal4_KPL\\FanLaptop.cs",
+              "ToolTip": "D:\\Jurnal4_KPL\\Jurnal4_KPL\\FanLaptop.cs",
+              "RelativeToolTip": "Jurnal4_KPL\\FanLaptop.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA8wEYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:30:50.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodeProduk.cs",
+              "DocumentMoniker": "D:\\Jurnal4_KPL\\Jurnal4_KPL\\KodeProduk.cs",
+              "RelativeDocumentMoniker": "Jurnal4_KPL\\KodeProduk.cs",
+              "ToolTip": "D:\\Jurnal4_KPL\\Jurnal4_KPL\\KodeProduk.cs",
+              "RelativeToolTip": "Jurnal4_KPL\\KodeProduk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:01:06.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Jurnal4_KPL\\Jurnal4_KPL\\Program.cs",
+              "RelativeDocumentMoniker": "Jurnal4_KPL\\Program.cs",
+              "ToolTip": "D:\\Jurnal4_KPL\\Jurnal4_KPL\\Program.cs",
+              "RelativeToolTip": "Jurnal4_KPL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:49:31.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

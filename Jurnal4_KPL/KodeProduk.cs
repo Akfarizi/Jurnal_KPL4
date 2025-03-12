@@ -22,8 +22,7 @@ namespace Modul4_103022300078
         {"Kamera", "E109"},
      };
         
-        public string GetKodeProduk(string namaProduk)
-        {
+        public string GetKodeProduk(string namaProduk){
             string kodeProduk = "";
             if (daftarKodeProduk.ContainsKey(namaProduk))
             {
